@@ -2433,7 +2433,7 @@
   (gr_text "JLCJLCJLCJLC" (at 81.4754 66.252 90) (layer "F.SilkS") (tstamp 2f579084-179d-43a4-88b5-9243e1fb8a76)
     (effects (font (size 1.143 1.143) (thickness 0.2032)))
   )
-  (gr_text "djiFriend v1.0" (at 70.7566 78.2916 90) (layer "F.SilkS") (tstamp c6a9b2da-bd30-4983-ad00-dc03e640a581)
+  (gr_text "djiFriend v1.1" (at 70.756602 78.291588 90) (layer "F.SilkS") (tstamp c6a9b2da-bd30-4983-ad00-dc03e640a581)
     (effects (font (size 1.143 1.143) (thickness 0.2032)))
   )
 

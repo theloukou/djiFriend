@@ -5,10 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "DJI Battery Friend")
-    (date "2022-08-25")
-    (rev "v01")
-    (comment 1 "Licence:")
+    (title "DJI Friend")
+    (date "2022-10-17")
+    (rev "v1.1")
     (comment 3 "github.com/theloukou")
     (comment 4 "Author: Lefteris Kantakos")
   )
