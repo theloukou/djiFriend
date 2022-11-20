@@ -448,7 +448,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 174ccba0-25f1-400b-8ded-71b462c9893b)
     )
-    (fp_text value "Batt" (at 69.9892 19.8406 90) (layer "F.Fab")
+    (fp_text value "Batt" (at 5.328 -2.6378 90) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 01eb3cf9-5004-4230-b8d4-e9cf2ef603d1)
     )
@@ -2423,7 +2423,6 @@
 
   (gr_rect (start 64.432 85.5052) (end 141.2924 46.6686) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp b47af3f7-c478-4584-8857-7cfd0bfc7b29))
   (gr_line (start 100 57.3278) (end 100 146.3802) (layer "User.1") (width 0.15) (tstamp 31f1d382-88fb-48e4-8fee-8179a37c04e8))
-  (gr_rect (start 80.8736 59.9402) (end 119.4736 138.8402) (layer "User.2") (width 0.15) (fill none) (tstamp b15074ee-27e7-4706-840b-f5bfe434a1db))
   (gr_text "*" (at 82.1436 54.356 135) (layer "B.SilkS") (tstamp a2eae010-a32f-4d85-a5ed-326a042f4a73)
     (effects (font (size 1.778 1.778) (thickness 0.381)))
   )

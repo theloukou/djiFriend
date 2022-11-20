@@ -1,12 +1,12 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.0)*
-G04 #@! TF.CreationDate,2022-10-17T15:31:20+03:00*
-G04 #@! TF.ProjectId,djiFriend,646a6946-7269-4656-9e64-2e6b69636164,rev?*
-G04 #@! TF.SameCoordinates,Original*
-G04 #@! TF.FileFunction,Soldermask,Top*
-G04 #@! TF.FilePolarity,Negative*
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.0)*%
+%TF.CreationDate,2022-11-20T21:00:10+02:00*%
+%TF.ProjectId,djiFriend,646a6946-7269-4656-9e64-2e6b69636164,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Top*%
+%TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.0)) date 2022-10-17 15:31:20*
+G04 Created by KiCad (PCBNEW (6.0.0)) date 2022-11-20 21:00:10*
 %MOMM*%
 %LPD*%
 G01*
